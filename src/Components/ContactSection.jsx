@@ -22,10 +22,11 @@ export default function ContactSection() {
               and experience levels.
             </p>
             <p className="text-gray-400 text-sm leading-relaxed">
-              Announcements are on <span className="text-white underline cursor-pointer">Instagram</span>, 
+              Announcements are on <a href="https://instagram.com/twomilerunclub" className="text-white underline cursor-pointer" target="_blank" rel="noopener noreferrer">Instagram</a>, 
               club communication is on <span className="text-white underline cursor-pointer">Discord</span>, 
-              and run event details are tracked on <span className="text-white underline cursor-pointer">Strava</span>.
+              and run event details are tracked on <a href="https://strava.com/club/twomilerunclub" className="text-white underline cursor-pointer" target="_blank" rel="noopener noreferrer">Strava</a>.
             </p>
+
             
             {/* Social Icons */}
             <div className="flex items-center gap-4 mt-6">
