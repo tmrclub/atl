@@ -2,29 +2,64 @@
 
 Live site: [https://tmrclub.github.io/atl/](https://tmrclub.github.io/atl/)
 
-## Deploy to GitHub Pages
+## Overview
+The **Two Mile Run Club** website is a community-focused platform built to support and grow a local running community.
 
-1. In the repo go to **Settings → Pages**.
-2. Under **Build and deployment**, set **Source** to **GitHub Actions**.
-3. Push to the `main` branch; the workflow will build and deploy to GitHub Pages.
+The site provides club information, announcements, and will expand to include interactive features such as route sharing and user profiles.
 
----
+This project is currently deployed as a static site using GitHub Pages.
 
+### Tech Stack
+**Frontend**
+- HTML5
+- CSS3
+- JavaScript
 
+**Hosting**
+- GitHub Pages
 
-# React + Vite
+## Current Features
+- Informational landing page
+- Club overview and branding
+- Responsive layout
+- Simple navigation structure
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Roadmap
+## Run Routes Page
+- Dedicated routes page
+- Route descriptions (distance, start location, details)
+- Optional interactive map integration
+  
+## Profile Management System
+- User registration (create account)
+- User login/logout
+- Profile dashboard
+- Future: run logging, tracking, leaderboard
 
-Currently, two official plugins are available:
+## Project Structure
+```
+atl/
+│── index.html
+│── css/
+│── js/
+│── assets/
+```
+## Future Improvements
+- Route database integration
+- Authentication system (Firebase or Supabase)
+- Run tracking & history
+- Event calendar
+- Admin management panel
+ 
+## Contributing
+1. Fork the repository
+2. Create a feature branch
+3. Commit changes
+4. Submit a pull request
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📬 Contact
+For questions, collaborations, or membership inquiries:
 
-## React Compiler
+📧 Email us at <twomilerunclub@gmail.com>
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+📝 Or submit feedback through our [suggestions survey](https://google.com)
