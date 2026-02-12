@@ -14,6 +14,7 @@ This project is currently deployed as a static site using GitHub Pages.
 - HTML5
 - CSS3
 - JavaScript
+
 **Hosting**
 - GitHub Pages
 
