@@ -58,6 +58,7 @@ atl/
 
 ## 📬 Contact
 For questions, collaborations, or membership inquiries:
-[Suggestions Survey](https://google.com)
-Submit Feedback at<a href="https://example.com" target="_blank">Example Website</a>
-<twomilerunclub@gmail.com>
+
+📧 Email us at <twomilerunclub@gmail.com>
+
+📝 Or submit feedback through our [suggestions survey](https://google.com)
