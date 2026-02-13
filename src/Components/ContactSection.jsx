@@ -23,8 +23,8 @@ export default function ContactSection() {
             </p>
             <p className="text-gray-400 text-sm leading-relaxed">
               Announcements are on <a href="https://instagram.com/twomilerunclub" className="text-white underline cursor-pointer" target="_blank" rel="noopener noreferrer">Instagram</a>, 
-              club communication is on <span className="text-white underline cursor-pointer">Discord</span>, 
-              and run event details are tracked on <a href="https://strava.com/club/twomilerunclub" className="text-white underline cursor-pointer" target="_blank" rel="noopener noreferrer">Strava</a>.
+              club communication is on <a href="https://discord.gg/hdG8wuTKp" className="text-white underline cursor-pointer" target="_blank" rel="noopener noreferrer">Discord</a>, 
+              and run event details are tracked on <a href="https://strava.com/clubs/twomilerunclub" className="text-white underline cursor-pointer" target="_blank" rel="noopener noreferrer">Strava</a>.
             </p>
 
             
