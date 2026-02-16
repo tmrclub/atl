@@ -24,7 +24,7 @@ export default function Navbar({ onAboutClick }) {
       <div className="max-w-7xl mx-auto px-6 py-4 flex items-center justify-between">
         <div className="flex items-center gap-3">
           <img 
-            src="https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/user_6988b4f4f9ab1b86d2de8ee6/8e8340e94_just_tmr_club_logo_v2.png"
+            src="https://raw.githubusercontent.com/twomilerunclub/media/refs/heads/main/just_tmr_club_logo_v2.png"
             alt="TMR Club"
             className="h-6 w-auto"
           />
