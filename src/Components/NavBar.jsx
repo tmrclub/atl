@@ -38,7 +38,7 @@ export default function Navbar({ onAboutClick }) {
             About Us
           </button>
           <a
-            href="https://lu.ma"
+            href="https://forms.gle/8FowHKMf6Ngm4X9FA"
             target="_blank"
             rel="noopener noreferrer"
             className="px-5 py-2 border border-white text-sm tracking-widest hover:bg-white hover:text-black transition-all duration-300 uppercase"
