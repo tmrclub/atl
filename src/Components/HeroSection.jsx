@@ -11,8 +11,16 @@ export default function HeroSection() {
 
   return (
     <section className="relative min-h-screen flex flex-col justify-end pb-12">
-      {/* Background YouTube Video */}
+      {/* Background Content */}
       <div className="absolute inset-0 overflow-hidden">
+        {/* Fallback Background Image */}
+      <img
+        src="https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/6988b5abd659a532750c59c5/4dcb9c1ad_IMG_8957.jpg"
+        alt="Background"
+        className="absolute inset-0 w-full h-full object-cover"
+      />                                        
+      
+      {/* Background YouTube Video */}
       <iframe
           src="https://www.youtube.com/embed/J0WjBu22bbw?autoplay=1&mute=1&loop=1&playlist=J0WjBu22bbw&controls=0&showinfo=0&rel=0&modestbranding=1&playsinline=1"
           title="TMR Club Background"
